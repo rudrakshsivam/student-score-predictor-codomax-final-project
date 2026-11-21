@@ -103,4 +103,4 @@ In plain words: each extra hour of study adds about 10 marks, and predictions ar
 
 ## 👤 Author
 
-**Rudraksh Sivam K U** · 25IT301
+**Rudraksh Sivam K U** ·
